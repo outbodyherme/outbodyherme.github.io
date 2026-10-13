@@ -1,5 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>身外她我的博客</title><link>https://outbodyherme.github.io</link><description>萌新上路，记录成长过程</description><copyright>身外她我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64</url><title>avatar</title><link>https://outbodyherme.github.io</link></image><lastBuildDate>Tue, 13 Oct 2026 08:12:19 +0000</lastBuildDate><managingEditor>身外她我的博客</managingEditor><ttl>60</ttl><webMaster>身外她我的博客</webMaster><item><title>初期小目标</title><link>https://outbodyherme.github.io/post/chu-qi-xiao-mu-biao.html</link><description># 博客目标
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>身外她我的博客</title><link>https://outbodyherme.github.io</link><description>萌新上路，记录成长过程</description><copyright>身外她我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64</url><title>avatar</title><link>https://outbodyherme.github.io</link></image><lastBuildDate>Tue, 13 Oct 2026 09:11:37 +0000</lastBuildDate><managingEditor>身外她我的博客</managingEditor><ttl>60</ttl><webMaster>身外她我的博客</webMaster><item><title>Markdown的快速入门</title><link>https://outbodyherme.github.io/post/Markdown-de-kuai-su-ru-men.html</link><description># 标题：
+# 一级标题：“# ”
+## 二级标题：“## ”
+### 三级标题：'### '    -&gt;注意：markdown语法里，符号后要加上空格 
+#### 四级标题：“#### ”    -&gt;标题以此类推
+# 引用：“&gt; ”
+&gt; 我从山中来带着兰花草
+# 列表
+## 有序列表：'number. '
+1. 打开冰箱
+2. 把大象放进冰箱
+3. 关上冰箱
+## 无序列表：“- ”
+- 用java手搓Minecraft
+## 任务列表：“-[ ] ”
+- [ ] play Minecraft
+- [ ] play Terraria
+- [ ] play Stardew Valley
+# 代码块：“三个反引号加上语言 ```python xxx ``` ”
+···python
+print('Hello World!')
+···
+# 数学公式：“美元美元xxx美元美元”    -&gt;博主还不会写数学公式，这里留着之后更新
+# 表格：“|进行分列，第一行为表头，第二行为对齐方式，‘-’与‘：’，冒号的位置在左/右代表左/右对齐”
+|姓名|性别|年龄|
+|:-----|:---:|-----:|
+|牢明|男|19|
+# 脚注：“x[尖帽xx]”
+Please Comment![^comment]
+[^comment]:评论
+# 横线：“---”
+---
+# 链接：“[name](url 'title')”
+[B站](https://www.bilibili.com/ '高质量长视频平台,年轻人的文化社区')
+也可以进行标题导航（把url改成井号+标题）
+[数学公式](#数学公式)
+也可以直接URL
+https://www.bilibili.com/
+# 图片：“！[name](url 'description')”
+[博主头像](https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64 '网代慎平')
+---
+↑块级内容，↓行级内容
+---
+# 强调/加粗：“俩星号xxx俩星号”
+**我是一串粗体字**
+# 斜体：“星号xxx星号”
+*我要摔倒了*
+# 下划线：“&lt;u&gt;xxx&lt;斜杠u&gt;”
+&lt;u&gt;我被标记了&lt;/u&gt;
+# 表情：“:表情英文名”
+😸 
+# 数学公式2：“美元xxx美元”
+$\theta = x^2$
+# 下标：“波浪号xxx波浪号”
+H~2~O
+# 上标：“尖帽xxx”
+# 高亮：“等号等号xxx等号等号”
+==我的狗眼==。</description><guid isPermaLink="true">https://outbodyherme.github.io/post/Markdown-de-kuai-su-ru-men.html</guid><pubDate>Tue, 13 Oct 2026 08:52:13 +0000</pubDate></item><item><title>初期小目标</title><link>https://outbodyherme.github.io/post/chu-qi-xiao-mu-biao.html</link><description># 博客目标
 主要是进行新手学习记录，希望大家可以一起努力，**无限进步！**
 # 阶段情况
  *博主处于大二上学期*
