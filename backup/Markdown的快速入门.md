@@ -22,7 +22,7 @@
 “-[ ] ”
 - [ ] play Minecraft
 - [ ] play Terraria
-- [ ] play Stardew Valley
+- [x] play Stardew Valley
 ### 代码块
 “三个反引号加上语言 ```python xxx ``` ”
 ```python
@@ -59,9 +59,6 @@ https://www.bilibili.com/
 ### 斜体
 “星号xxx星号”
 *我要摔倒了*
-### 下划线
-“<u>xxx<斜杠u>”
-<u>我被标记了< /u>
 ### 表情
 “:表情英文名”
 😸 

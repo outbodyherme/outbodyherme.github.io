@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>身外她我的博客</title><link>https://outbodyherme.github.io</link><description>萌新上路，记录成长过程</description><copyright>身外她我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64</url><title>avatar</title><link>https://outbodyherme.github.io</link></image><lastBuildDate>Tue, 13 Oct 2026 09:27:23 +0000</lastBuildDate><managingEditor>身外她我的博客</managingEditor><ttl>60</ttl><webMaster>身外她我的博客</webMaster><item><title>Markdown的快速入门</title><link>https://outbodyherme.github.io/post/Markdown-de-kuai-su-ru-men.html</link><description># 一级标题
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>身外她我的博客</title><link>https://outbodyherme.github.io</link><description>萌新上路，记录成长过程</description><copyright>身外她我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64</url><title>avatar</title><link>https://outbodyherme.github.io</link></image><lastBuildDate>Tue, 13 Oct 2026 09:28:02 +0000</lastBuildDate><managingEditor>身外她我的博客</managingEditor><ttl>60</ttl><webMaster>身外她我的博客</webMaster><item><title>Markdown的快速入门</title><link>https://outbodyherme.github.io/post/Markdown-de-kuai-su-ru-men.html</link><description># 一级标题
 “# ”
 ## 二级标题
 “## ”
@@ -23,7 +23,7 @@
 “-[ ] ”
 - [ ] play Minecraft
 - [ ] play Terraria
-- [ ] play Stardew Valley
+- [x] play Stardew Valley
 ### 代码块
 “三个反引号加上语言 ```python xxx ``` ”
 ```python
@@ -60,9 +60,6 @@ https://www.bilibili.com/
 ### 斜体
 “星号xxx星号”
 *我要摔倒了*
-### 下划线
-“&lt;u&gt;xxx&lt;斜杠u&gt;”
-&lt;u&gt;我被标记了&lt; /u&gt;
 ### 表情
 “:表情英文名”
 😸 
