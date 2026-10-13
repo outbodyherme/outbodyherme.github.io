@@ -23,7 +23,8 @@
 - [ ] play Minecraft
 - [ ] play Terraria
 - [ ] play Stardew Valley
-### 代码块：“三个反引号加上语言 ```python xxx ``` ”
+### 代码块
+“三个反引号加上语言 ```python xxx ``` ”
 ```python
 print('Hello World!')
 ```
@@ -46,18 +47,23 @@ Please Comment![^comment]
 [初期小目标](#1 )
 也可以直接URL
 https://www.bilibili.com/
-### 图片：“!中左name中右(链接 引号description引号)”
+### 图片
+“!中左name中右(链接 引号description引号)”
 [博主头像](https://avatars.githubusercontent.com/u/309566087?v=4&size=64 "网代慎平")
 ---
 > 以上为块级内容，以下为行级内容
 ---
-### 强调/加粗：“俩星号xxx俩星号”
+### 强调/加粗
+“俩星号xxx俩星号”
 **我是一串粗体字**
-### 斜体：“星号xxx星号”
+### 斜体
+“星号xxx星号”
 *我要摔倒了*
-### 下划线：“<u>xxx<斜杠u>”
+### 下划线
+“<u>xxx<斜杠u>”
 <u>我被标记了< /u>
-### 表情：“:表情英文名”
+### 表情
+“:表情英文名”
 😸 
 ### 删除线
 “波浪号xxx波浪号”
