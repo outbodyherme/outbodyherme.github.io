@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>身外她我的博客</title><link>https://outbodyherme.github.io</link><description>萌新上路，记录成长过程</description><copyright>身外她我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64</url><title>avatar</title><link>https://outbodyherme.github.io</link></image><lastBuildDate>Tue, 13 Oct 2026 08:02:17 +0000</lastBuildDate><managingEditor>身外她我的博客</managingEditor><ttl>60</ttl><webMaster>身外她我的博客</webMaster><item><title>初期小目标</title><link>https://outbodyherme.github.io/post/chu-qi-xiao-mu-biao.html</link><description>Hello Github!。</description><guid isPermaLink="true">https://outbodyherme.github.io/post/chu-qi-xiao-mu-biao.html</guid><pubDate>Tue, 13 Oct 2026 07:49:07 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>身外她我的博客</title><link>https://outbodyherme.github.io</link><description>萌新上路，记录成长过程</description><copyright>身外她我的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/309566087?v=4&amp;size=64</url><title>avatar</title><link>https://outbodyherme.github.io</link></image><lastBuildDate>Tue, 13 Oct 2026 08:11:40 +0000</lastBuildDate><managingEditor>身外她我的博客</managingEditor><ttl>60</ttl><webMaster>身外她我的博客</webMaster><item><title>初期小目标</title><link>https://outbodyherme.github.io/post/chu-qi-xiao-mu-biao.html</link><description># 博客目标
+主要是进行新手学习记录，希望大家可以一起努力，**无限进步！**
+# 阶段情况
+博主处于大二上学期
+- 目前正在入手python作为辅助语言，python基础部分的知识学习记录在导师小组的语雀中，额外兴趣拓展及进阶学习将记录在此博客
+- 本学期有C语言数据结构课程，博主将主要理解结构和算法思想，具体代码考虑以python或者java进行实现
+- 本学期同有java限选课，但书本的入门并不高效，博主会跟随黑马程序员的网课进行入门与记录，到后面的进阶，记录几年的成长
+-git、github、gitee、Linux、MySQL的学习也在提上日程
+同时，在编辑这个小'文件'时，博主还并未学习markdown语法，排版的美观程度是一个好的体现，希望下一个学习记录，大家能够看到我的进步！
+
+。</description><guid isPermaLink="true">https://outbodyherme.github.io/post/chu-qi-xiao-mu-biao.html</guid><pubDate>Tue, 13 Oct 2026 07:49:07 +0000</pubDate></item></channel></rss>
